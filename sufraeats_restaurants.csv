@@ -1,0 +1,231 @@
+restaurant_id,restaurant_name,cuisine,zone,commission_rate,avg_prep_time_min,opened_year,price_tier,is_premium_partner,seating_capacity
+RST100,Desert Grill,lebanese,Downtown,0.19,11,2019,$$,No,60
+RST101,Urban Diner,Japanese,Downtown,0.24,24,2015,$$,Yes,40
+RST102,Spice Diner,Italian,Downtown,0.3,20,2017,$$,No,0
+RST103,Sunset House,Indian,Downtown,0.23,14,2018,$,Yes,0
+RST104,Little Diner,Japanese,Downtown,0.29,27,2023,$,Yes,80
+RST105,Little Corner,Japanese,Downtown,0.28,11,2024,$$,Yes,60
+RST107,Casa Oven,Chinese,Downtown,0.23,15,2024,$$,No,80
+RST108,Palm Kitchen,Italian,Downtown,0.29,9,2015,$$,No,0
+RST109,Palm Bites,American,Downtown,0.19,24,2024,$$$,No,0
+RST110,Little Souk,Healthy,Downtown,0.16,17,2023,$,Yes,40
+RST111,Palm Oven,American,Downtown,0.15,23,2017,$,No,0
+RST112,Royal Souk,Japanese,Downtown,0.29,11,2021,$$,Yes,0
+RST113,Ocean Grill,Japanese,Downtown,0.27,10,2017,$,Yes,0
+RST114,Spice Souk,Emirati,Downtown,0.23,20,2024,$$$,No,60
+RST115,Blue Diner,Chinese,Downtown,0.19,11,2022,$$$,No,20
+RST116,Ocean Express,lebanese,Downtown,0.28,8,2024,$$,Yes,0
+RST117,Little Table,Emirati,Downtown,0.15,29,2016,$$$,Yes,80
+RST118,Palm Table,INDIAN,Downtown,0.17,29,2021,$$,No,40
+RST119,Spice Souk,Chinese,Downtown,0.21,16,2019,$,No,20
+RST120,Spice House,American,Downtown,0.3,29,2022,$$$,No,60
+RST121,Sunset Diner,Chinese,Downtown,0.21,16,2021,$$$,No,80
+RST122,Royal House,lebanese,Downtown,0.25,12,2017,$$,No,0
+RST123,Casa Oven,Japanese,Downtown,0.23,29,2024,$,No,0
+RST124,Bayt Feast,indian,Downtown,0.27,16,2017,$$$,No,0
+RST125,Royal Feast,Chinese,Downtown,0.2,19,2022,$$$,No,80
+RST126,Golden Express,Emirati,Downtown,0.26,12,2022,$$,No,0
+RST127,Golden Bites,Chinese,Downtown,0.15,12,2015,$$$,No,60
+RST128,Bayt Table,Lebanese,Downtown,0.23,29,2016,$,Yes,60
+RST129,Sunset Feast,Chinese,Downtown,0.16,23,2018,$$$,No,80
+RST130,Desert Express,American,Downtown,0.18,23,2024,$$,No,40
+RST131,Palm Feast,Japanese,Downtown,0.16,27,2019,$$$,No,20
+RST132,Bayt Garden,American,Downtown,0.18,24,2020,$$$,Yes,20
+RST133,Spice Table,American,Downtown,0.2,12,2019,$$$,No,20
+RST134,Blue Grill,Lebanese,Downtown,0.25,11,2022,$$$,No,0
+RST135,Ocean Table,Lebanese,Downtown,0.29,17,2024,$$,No,60
+RST136,Little Garden,Chinese,Downtown,0.28,11,2022,$$$,No,40
+RST137,Palm Table,healthy food,Downtown,0.21,25,2021,$$$,No,0
+RST138,Ocean Express,lebanese,Downtown,0.23,22,2024,$,No,0
+RST139,Desert Corner,Chinese,Downtown,0.25,27,2016,$$,No,0
+RST140,Blue Feast,INDIAN,Downtown,0.29,13,2015,$$,No,20
+RST141,Desert Bites,American,Downtown,0.28,29,2019,$,Yes,20
+RST142,Little Kitchen,Chinese,Downtown,0.22,11,2023,$$$,No,0
+RST143,Little Souk,Japanese,Downtown,0.24,23,2016,$$$,No,0
+RST144,Golden Kitchen,INDIAN,Downtown,0.26,23,2022,$$,No,60
+RST145,Spice Diner,Indian,Downtown,0.2,15,2024,$$$,Yes,80
+RST146,Urban Diner,Italian,Downtown,0.27,16,2020,$$,Yes,80
+RST147,Sunset Grill,INDIAN,Downtown,0.2,22,2022,$,Yes,60
+RST148,Blue Feast,Healthy,Marina ,0.21,21,2024,$$,Yes,20
+RST149,Royal Souk,Italian,Marina,0.22,17,2023,$$,No,20
+RST150,Blue Corner,American,Marina ,0.26,15,2015,$,Yes,60
+RST151,Casa Kitchen,Japanese,Marina,0.21,10,2018,$$$,No,80
+RST152,Spice Oven,Chinese,Marina,0.22,15,2019,$$,Yes,0
+RST153,Blue Oven,American,Marina,0.24,13,2021,$$,No,0
+RST154,Golden Kitchen,Italian,Marina ,0.16,8,2020,$$,No,60
+RST155,Sunset Bites,healthy food,Marina ,0.27,21,2023,$,No,40
+RST156,Urban Corner,Emirati,Marina ,0.22,13,2016,$,No,20
+RST157,Royal Feast,lebanese,Marina,0.21,24,2019,$,Yes,20
+RST158,Blue Grill,Lebanese,Marina ,0.21,18,2017,$$$,Yes,60
+RST159,Bayt Table,healthy food,Marina ,0.26,29,2015,$$$,Yes,80
+RST160,Bayt Garden,Chinese,Marina ,0.18,20,2017,$,No,0
+RST161,Ocean Grill,American,Marina,0.25,22,2018,$$$,No,80
+RST164,Blue Bites,Italian,Marina ,0.26,27,2023,$,No,40
+RST165,Palm Feast,Chinese,Marina,0.21,8,2018,$,Yes,60
+RST166,Palm Garden,Japanese,Marina,0.17,25,2017,$$$,No,20
+RST167,Urban House,Italian,Marina,0.22,12,2016,$$$,Yes,0
+RST168,Palm House,Emirati,Marina,0.21,12,2023,$,No,40
+RST169,Palm Express,Emirati,Marina ,0.21,16,2020,$$$,No,0
+RST170,Spice House,Indian,Marina ,0.16,27,2016,$$,No,0
+RST171,Palm Grill,Healthy,Marina,0.28,18,2016,$,No,40
+RST172,Bayt House,American,Marina,0.19,17,2019,$$,Yes,0
+RST173,Blue Diner,Emirati,Marina ,0.22,30,2020,$$,No,0
+RST174,Ocean Grill,Chinese,Marina ,0.25,25,2017,$$$,Yes,0
+RST175,Blue Kitchen,Chinese,Marina,0.21,29,2021,$$,No,20
+RST176,Golden Kitchen,indian,Marina ,0.23,15,2021,$$$,No,0
+RST177,Palm Corner,Japanese,Marina,0.22,24,2020,$$$,No,60
+RST178,Palm Souk,Emirati,Marina,0.25,26,2021,$$,Yes,0
+RST179,Royal Bites,Emirati,Marina ,0.27,17,2018,$$,No,20
+RST180,Blue Diner,Japanese,Marina ,0.27,18,2017,$$$,No,20
+RST181,Urban Garden,Emirati,Marina,0.17,20,2021,$,Yes,60
+RST182,Sunset Oven,INDIAN,Marina,0.26,12,2018,$$$,No,0
+RST183,Palm Bites,Italian,Marina ,0.25,24,2015,$$$,No,0
+RST184,Palm Kitchen,Japanese,Marina,0.25,29,2024,$$$,No,40
+RST185,Blue Bites,healthy food,Marina,0.16,17,2017,$$,No,0
+RST186,Royal Feast,Emirati,Marina ,0.24,13,2022,$,No,20
+RST187,Little Garden,Indian,Marina,0.29,24,2024,$,Yes,0
+RST188,Blue Corner,INDIAN,JLT,0.24,16,2019,$$,No,20
+RST189,Little Bites,Lebanese,JLT,0.25,29,2022,$$,No,0
+RST190,Golden House,Italian,JLT,0.17,8,2020,$$,No,0
+RST191,Spice Oven,healthy food,Jumeirah Lake Towers,0.3,17,2022,$$$,No,20
+RST192,Sunset Kitchen,INDIAN,JLT,0.26,12,2017,$,Yes,60
+RST193,Sunset Souk,healthy food,Jumeirah Lake Towers,0.18,10,2017,$$,Yes,0
+RST194,Casa House,American,JLT,0.16,9,2021,$$,No,0
+RST195,Bayt Oven,INDIAN,Jumeirah Lake Towers,0.24,15,2015,$$$,No,40
+RST196,Desert Bites,Japanese,JLT,0.21,29,2015,$,No,0
+RST197,Urban Diner,Emirati,JLT,0.28,9,2015,$$,Yes,40
+RST198,Bayt Souk,lebanese,JLT,0.29,11,2019,$$$,No,0
+RST199,Blue Souk,lebanese,JLT,0.23,12,2015,$$,No,60
+RST200,Spice Express,Indian,Jumeirah Lake Towers,0.16,22,2017,$$,No,60
+RST201,Desert Table,lebanese,Jumeirah Lake Towers,0.24,20,2022,$$$,No,80
+RST202,Palm Garden,Italian,Jumeirah Lake Towers,0.24,30,2017,$$$,No,20
+RST203,Ocean Express,Japanese,JLT,0.18,26,2023,$$,No,80
+RST204,Royal Souk,Emirati,Jumeirah Lake Towers,0.19,20,2018,$$$,Yes,40
+RST205,Blue Table,Indian,Jumeirah Lake Towers,0.15,30,2017,$,No,0
+RST206,Palm Garden,healthy food,JLT,0.2,27,2020,$$$,Yes,40
+RST207,Palm Kitchen,Healthy,Jumeirah Lake Towers,0.25,26,2020,$,No,80
+RST209,Bayt Garden,healthy food,Jumeirah Lake Towers,0.28,9,2018,$$,Yes,80
+RST210,Sunset Garden,INDIAN,Jumeirah Lake Towers,0.28,15,2017,$,No,40
+RST211,Royal Garden,Italian,Jumeirah Lake Towers,0.23,21,2015,$,No,60
+RST212,Little Corner,Lebanese,JLT,0.17,19,2021,$$$,Yes,60
+RST213,Little Corner,American,Jumeirah Lake Towers,0.29,21,2024,$$$,No,0
+RST214,Palm Bites,Lebanese,JLT,0.28,17,2023,$$,No,60
+RST215,Little Corner,Indian,JLT,0.29,15,2015,$$$,Yes,0
+RST216,Bayt Feast,Emirati,Business Bay,0.25,23,2021,$$$,No,60
+RST217,Blue Express,Lebanese,Business Bay,0.21,17,2022,$$,No,0
+RST218,Urban House,lebanese,Business Bay,0.18,11,2017,$,No,40
+RST219,Desert Garden,Indian,Business Bay,0.3,23,2018,$$$,No,80
+RST220,Sunset Souk,Italian,Business Bay,0.27,27,2020,$,No,20
+RST221,Bayt House,Emirati,Business Bay,0.16,9,2017,$$$,No,0
+RST222,Little Table,Japanese,Business Bay,0.16,13,2016,$$$,Yes,80
+RST223,Desert Garden,Lebanese,Business Bay,0.2,15,2024,$,Yes,0
+RST224,Palm Corner,Indian,Business Bay,0.28,28,2023,$$$,Yes,80
+RST225,Golden Oven,Japanese,Business Bay,0.18,12,2023,$,No,0
+RST226,Bayt Souk,Chinese,Business Bay,0.26,14,2023,$$,No,80
+RST227,Bayt Express,Indian,Business Bay,0.19,26,2016,$,No,40
+RST228,Ocean Grill,Emirati,Business Bay,0.27,20,2019,$$,No,80
+RST229,Golden Feast,Chinese,Business Bay,0.23,29,2023,$$$,Yes,80
+RST230,Golden Express,Healthy,Business Bay,0.26,9,2016,$,No,60
+RST231,Urban Grill,Emirati,Business Bay,0.22,13,2015,$$,Yes,20
+RST232,Blue Express,Chinese,Business Bay,0.24,9,2016,$,No,0
+RST233,Desert Souk,Indian,Business Bay,0.2,10,2023,$$$,Yes,60
+RST234,Royal Grill,Emirati,Business Bay,0.25,13,2022,$$$,No,20
+RST235,Desert Kitchen,healthy food,Business Bay,0.27,27,2024,$,Yes,0
+RST236,Royal Diner,Italian,Business Bay,0.29,15,2021,$$$,No,80
+RST237,Ocean Corner,lebanese,Business Bay,0.28,22,2021,$$,No,60
+RST238,Little Kitchen,Chinese,Business Bay,0.29,16,2022,$,Yes,60
+RST240,Desert Garden,Lebanese,Business Bay,0.3,22,2024,$,No,60
+RST241,Blue Oven,Italian,Business Bay,0.24,19,2024,$,No,60
+RST242,Golden Kitchen,Lebanese,Business Bay,0.23,20,2021,$,Yes,20
+RST243,Ocean House,INDIAN,Business Bay,0.21,16,2019,$$,Yes,0
+RST244,Sunset Diner,Indian,Business Bay,0.17,30,2020,$,Yes,20
+RST245,Ocean Table,American,Business Bay,0.21,11,2017,$$$,No,20
+RST246,Palm Souk,American,Business Bay,0.24,18,2023,$$$,No,0
+RST248,Golden Express,lebanese,Business Bay,0.29,15,2017,$,No,60
+RST249,Little Table,healthy food,Business Bay,0.29,29,2022,$$$,No,0
+RST250,Royal House,American,Deira,0.17,26,2022,$,No,80
+RST251,Casa Corner,Emirati,Deira,0.23,17,2022,$$,Yes,0
+RST252,Ocean Table,Lebanese,Deira,0.28,21,2017,$$$,Yes,0
+RST253,Palm Grill,Japanese,Deira,0.18,11,2020,$$,No,20
+RST254,Sunset Souk,American,Deira,0.22,17,2023,$$,No,20
+RST255,Casa Garden,Chinese,Deira,0.29,29,2018,$$$,No,0
+RST256,Ocean House,American,Deira,0.29,23,2017,$,Yes,0
+RST257,Desert Express,Italian,Deira,0.19,8,2016,$$,Yes,40
+RST258,Palm Oven,Emirati,Deira,0.21,25,2018,$,No,0
+RST259,Royal Feast,Italian,Deira,0.18,21,2020,$,No,20
+RST260,Sunset Souk,Italian,Deira,0.27,21,2021,$$$,Yes,60
+RST261,Sunset Bites,Italian,Deira,0.21,27,2021,$$$,No,20
+RST262,Ocean Garden,indian,Deira,0.16,26,2016,$$,Yes,60
+RST263,Royal Table,Indian,Deira,0.26,22,2021,$$,Yes,60
+RST264,Golden Bites,Emirati,Deira,0.16,19,2021,$$,No,0
+RST265,Little Diner,Japanese,Deira,0.19,13,2021,$,No,20
+RST266,Ocean Grill,Lebanese,Deira,0.17,29,2021,$,No,0
+RST267,Golden Souk,Healthy,Deira,0.17,11,2018,$,Yes,60
+RST268,Blue Corner,Italian,Deira,0.2,27,2016,$,No,60
+RST269,Urban Souk,Lebanese,Deira,0.18,21,2016,$$$,No,0
+RST270,Bayt Grill,Italian,Deira,0.22,20,2019,$,No,40
+RST271,Little House,Italian,Deira,0.17,12,2022,$$,No,60
+RST272,Ocean Diner,American,Deira,0.21,26,2021,$,No,20
+RST273,Royal Corner,Italian,Deira,0.2,15,2015,$$,Yes,80
+RST274,Royal Kitchen,Lebanese,Deira,0.2,11,2023,$$$,No,40
+RST275,Ocean Oven,healthy food,Deira,0.23,22,2016,$$$,No,60
+RST276,Blue Feast,indian,Al Barsha,0.27,11,2021,$$$,No,0
+RST277,Royal Souk,indian,Al Barsha,0.17,30,2015,$$$,Yes,40
+RST278,Palm Bites,Italian,Al Barsha,0.18,21,2017,$$$,No,80
+RST279,Urban Corner,Japanese,Al Barsha,0.3,11,2022,$,No,80
+RST280,Desert Table,American,Al Barsha,0.22,21,2022,$$$,Yes,80
+RST281,Golden Diner,Japanese,Al Barsha,0.27,28,2017,$$$,Yes,40
+RST282,Spice Bites,lebanese,Al Barsha,0.2,26,2015,$$$,Yes,20
+RST283,Ocean Express,Emirati,Al Barsha,0.28,16,2022,$$,Yes,0
+RST284,Bayt Feast,Italian,Al Barsha,0.27,26,2017,$$$,Yes,0
+RST285,Desert Garden,lebanese,Al Barsha,0.23,24,2022,$,No,20
+RST286,Casa Kitchen,Japanese,Al Barsha,0.19,15,2021,$,Yes,80
+RST287,Blue Oven,healthy food,Al Barsha,0.27,8,2018,$,No,0
+RST288,Sunset Garden,Emirati,Al Barsha,0.27,22,2019,$$$,Yes,0
+RST289,Little Grill,Chinese,Al Barsha,0.16,17,2018,$$$,No,0
+RST290,Urban Grill,Lebanese,Al Barsha,0.28,19,2018,$,No,40
+RST291,Little Corner,INDIAN,Al Barsha,0.25,9,2023,$$$,No,20
+RST292,Golden Bites,Japanese,Al Barsha,0.26,24,2022,$$$,No,0
+RST293,Blue House,Italian,Al Barsha,0.17,27,2019,$$$,Yes,20
+RST294,Desert House,Emirati,Al Barsha,0.28,16,2021,$$$,No,0
+RST295,Spice Grill,American,Al Barsha,0.17,25,2024,$,No,0
+RST296,Bayt Express,lebanese,Al Barsha,0.26,13,2022,$$$,No,80
+RST297,Ocean Diner,American,Al Barsha,0.16,10,2017,$,Yes,0
+RST298,Ocean Souk,Japanese,Al Barsha,0.22,24,2024,$$$,No,40
+RST299,Desert House,Italian,Al Barsha,0.28,21,2020,$$$,No,40
+RST300,Urban Bites,lebanese,Jumeirah,0.18,27,2021,$$,No,60
+RST301,Ocean Garden,Healthy,Jumeirah,0.21,25,2023,$$,Yes,20
+RST302,Blue Garden,Lebanese,Jumeirah,0.23,23,2017,$$,No,0
+RST303,Desert Diner,Japanese,Jumeirah,0.23,19,2018,$,Yes,20
+RST304,Desert Diner,Japanese,Jumeirah,0.19,14,2019,$$$,No,60
+RST305,Golden Feast,Chinese,Jumeirah,0.18,12,2019,$$$,Yes,40
+RST306,Golden Kitchen,American,Jumeirah,0.21,23,2018,$$,Yes,0
+RST307,Casa Table,Healthy,Jumeirah,0.21,10,2023,$$$,Yes,0
+RST308,Bayt Garden,Healthy,Jumeirah,0.29,16,2022,$,No,60
+RST309,Ocean Express,Emirati,Jumeirah,0.22,30,2021,$$$,No,0
+RST310,Desert Feast,Lebanese,Jumeirah,0.21,25,2020,$$,No,60
+RST311,Sunset Bites,Lebanese,Jumeirah,0.29,28,2016,$$,No,80
+RST312,Sunset Kitchen,lebanese,Jumeirah,0.27,25,2022,$,Yes,80
+RST313,Casa Souk,Italian,Jumeirah,0.24,30,2023,$,No,20
+RST316,Blue Feast,INDIAN,Jumeirah,0.16,15,2020,$$$,No,0
+RST317,Golden Kitchen,Chinese,Jumeirah,0.21,18,2024,$$,No,40
+RST318,Palm House,Italian,Jumeirah,0.28,18,2021,$$$,No,0
+RST319,Blue Garden,Emirati,Jumeirah,0.29,29,2022,$$$,No,20
+RST320,Casa Table,Japanese,Jumeirah,0.27,26,2023,$,No,20
+RST321,Blue Oven,INDIAN,Jumeirah,0.17,25,2022,$$$,Yes,20
+RST322,Palm Table,Chinese,Silicon Oasis,0.2,22,2023,$,No,60
+RST323,Desert Feast,INDIAN,Silicon Oasis,0.19,21,2022,$$,Yes,40
+RST324,Ocean Express,Lebanese,Silicon Oasis,0.23,16,2019,$$,No,40
+RST326,Urban Souk,Emirati,Silicon Oasis,0.28,18,2017,$,No,60
+RST327,Sunset Garden,Japanese,Silicon Oasis,0.19,13,2015,$$,No,0
+RST328,Little Garden,Japanese,Silicon Oasis,0.16,21,2015,$$,No,80
+RST329,Little Feast,lebanese,Silicon Oasis,0.17,14,2019,$$$,Yes,0
+RST330,Urban Feast,Emirati,Silicon Oasis,0.17,8,2015,$$$,No,0
+RST331,Urban Grill,healthy food,Silicon Oasis,0.18,27,2017,$$,Yes,0
+RST332,Desert Corner,American,Silicon Oasis,0.24,18,2023,$,No,0
+RST333,Bayt Express,healthy food,Silicon Oasis,0.2,20,2015,$,No,20
+RST334,Desert Garden,Chinese,Silicon Oasis,0.19,30,2021,$$,No,80
+RST335,Little Garden,Healthy,Silicon Oasis,0.17,12,2020,$$,Yes,80
+RST336,Urban Oven,Japanese,Silicon Oasis,0.16,20,2019,$$$,No,80
+RST337,Urban Souk,Japanese,Silicon Oasis,0.16,13,2024,$$$,No,80
+RST339,Sunset Grill,Emirati,Silicon Oasis,0.16,14,2023,$$$,Yes,40
